@@ -11,6 +11,7 @@ Add drawbacks to spending lunar coins. Currently only adds time to the run every
 	- `One`: Time added doesn't depend on amount of coin spent.
 - `Player Amount Scale` : Scales time added by player amount. Set to 0 or negative to disable. (Default: `0.0`)
 	- Formula: `TimeAdded * PlayerAmount * PlayerAmountScale`
+- `Display Time Cost` : Overrides Lunar Cost Display to also display time cost. (Default : `true`)
 
 ## Changelog
 
