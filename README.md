@@ -18,3 +18,7 @@ Add drawbacks to spending lunar coins. Currently only adds time to the run every
 **1.0.0**
 
 * First Release
+
+## Credits
+
+Original idea by [gamerH_ost](https://www.twitch.tv/gamerh_0st).

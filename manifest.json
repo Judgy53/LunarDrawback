@@ -2,7 +2,7 @@
 	"name": "LunarDrawback",
 	"version_number": "1.0.0",
 	"website_url": "https://github.com/Judgy53/LunarDrawback",
-	"description": "LunarDrawback",
+	"description": "Add drawbacks to spending lunar coins.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.9",
 		"RiskofThunder-HookGenPatcher-1.2.1"
