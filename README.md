@@ -15,6 +15,10 @@ Add drawbacks to spending lunar coins. Currently only adds time to the run every
 
 ## Changelog
 
+**1.0.1**
+    - Fix manifest description.
+    - Added `Credits` section to README.
+
 **1.0.0**
 
 * First Release
